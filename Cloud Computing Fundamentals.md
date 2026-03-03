@@ -17,3 +17,5 @@ Hệ thống khổng lồ được phân loại thành bốn nhóm:
 - Computing grids (mạng lưới máy tính)
 - Đám mây internet được đặt trên các trung tâm dữ liệu khổng lồ
 Về số lượng nút, bốn loại hệ thống này có thể bao gồm hàng trăm, hàng nghìn, hoặc thậm chí hàng triệu máy tính tham gia. Các máy này hoạt động tập thể, hợp tác hoặc cộng tác ở nhiều cấp độ khác nhau.
+
+# 
